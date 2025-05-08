@@ -1,4 +1,4 @@
-*El archivo se encuentra en la branch master*
+Antonio Jose Moreno Lopez 1050091476
 
 Despues de determinar que las clases necesarias para realizar la tarea eran Libros, usuarios y Biblioteca, en donde se encotrara el main, se procede a la creacion de ellas, iniciando por libros.
 
