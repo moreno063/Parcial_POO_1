@@ -27,8 +27,7 @@ public class Libros {
         return nombre;
     }
     
-    public void mostrarResultado(String nombre){
-        System.out.println("El nombre del libro registrado es: " + nombre + ", de la categoria" + categoria);
+    public void mostrarResultado(String nombre, String categoria){
+        System.out.println("El nombre del libro registrado es " + nombre + ", de la categoria " + categoria);
     }   
-    
 }
