@@ -1,3 +1,5 @@
+*El archivo se encuentra en la branch master*
+
 Despues de determinar que las clases necesarias para realizar la tarea eran Libros, usuarios y Biblioteca, en donde se encotrara el main, se procede a la creacion de ellas, iniciando por libros.
 
 ![image](https://github.com/user-attachments/assets/03f47f06-9856-44f1-b8de-4ed55ed97d2c)
